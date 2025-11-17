@@ -1,5 +1,13 @@
 typhoon-asr
 sounddevice
-numpy
-transformers
-torchaudio
+faster-whisper
+SpeechRecognition
+pyaudio
+
+# PyTorch (GPU version, CUDA 11.8)
+torch==2.2.1
+torchaudio==2.2.1
+torchvision==0.17.1
+
+# NVIDIA NeMo (ASR toolkit)
+nemo_toolkit[all]==1.16.0
