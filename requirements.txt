@@ -1,1 +1,5 @@
 typhoon-asr
+sounddevice
+numpy
+transformers
+torchaudio
