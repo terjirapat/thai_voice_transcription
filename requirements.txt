@@ -1,5 +1,4 @@
-typhoon-asr
+# typhoon-asr
 sounddevice
-faster-whisper
 SpeechRecognition
 pyaudio
