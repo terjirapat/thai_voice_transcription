@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "nemo-toolkit[asr]>=1.21.0",
     "absl-py>=2.3.1",
     "aiohappyeyeballs>=2.6.1",
     "aiohttp>=3.12.15",
@@ -87,7 +88,6 @@ dependencies = [
     "nbclient>=0.10.2",
     "nbconvert>=7.16.6",
     "nbformat>=5.10.4",
-    "nemo-toolkit>=2.4.0",
     "networkx>=3.5",
     "numba>=0.62.0",
     "numpy>=2.3.3",
@@ -182,6 +182,7 @@ dependencies = [
     "xxhash>=3.5.0",
     "yarg>=0.1.10",
     "yarl>=1.20.1",
+    "sounddevice>=0.5.3",
 ]
 
 [dependency-groups]
