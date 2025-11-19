@@ -10,6 +10,7 @@ dependencies = [
     "soundfile>=0.13.1",
     "torch>=2.7.1",
     "numpy<2.0",
+    "rapidfuzz>=3.14.3",
 ]
 
 [dependency-groups]
